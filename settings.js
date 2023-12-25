@@ -20,7 +20,7 @@ require('dotenv').config()
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
 creator = '乂btr乂' // Nama 
-port = 80 //port host
+port = 8080 //port host
 LimitApikey = 200 // Limit Apikey default
 
 //___________ ┏  Database Mongodb Setting  ┓ ___________\\
@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = 'attackercyberteam@gmail.com' //Email SMTP
 fromsendemail = 'attackercyberteam@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = 'kzqoebhrkxmhagox' // Password Email SMTP
-domain = 'api-btr-store-bfd291a1d5e2.herokuapp.com'// domain website tanpa http or https
+domain = 'localhost'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
