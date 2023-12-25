@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = 'attackercyberteam@gmail.com' //Email SMTP
 fromsendemail = 'attackercyberteam@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = 'kzqoebhrkxmhagox' // Password Email SMTP
-domain = 'localhost'// domain website tanpa http or https
+domain = 'api-btr-store-bfd291a1d5e2.herokuapp.com'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
